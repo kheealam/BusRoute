@@ -48,7 +48,7 @@ public class BusRouteService {
 				String[] arr =line.split(" ");
 				HashMap<String, Integer> map = new HashMap<String, Integer>();
 				routeMap.add(map);
-				for (int j=0;j<arr.length;++j) {
+				for (int j=1;j<arr.length;++j) {
 					map.put(arr[j],j);
 				}
 			}
