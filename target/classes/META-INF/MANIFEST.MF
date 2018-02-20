@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BusRoute
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: VD-khizaralam
+Implementation-Vendor-Id: com.goeuro.assignment
+Build-Jdk: 1.8.0_31
+Implementation-URL: http://projects.spring.io/spring-boot/BusRoute/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
